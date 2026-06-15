@@ -1,132 +1,168 @@
-# 🏏 IPL Data Analysis Dashboard using Excel
+# 🏏 IPL 2008–2018 Data Analysis Dashboard
 
 ## 📌 Project Overview
 
-This project analyzes Indian Premier League (IPL) data using Microsoft Excel. The dashboard provides insights into team performance, player statistics, match outcomes, and season trends through interactive visualizations and PivotTables.
+This project presents a comprehensive analysis of the Indian Premier League (IPL) from 2008 to 2018 using both **Microsoft Excel** and **Power BI**. The goal of this project is to transform raw IPL match data into meaningful insights through interactive dashboards, visualizations, and data-driven storytelling.
 
-The objective of this project is to transform raw IPL data into meaningful business insights using Excel's data analysis and visualization capabilities.
-
----
-
-## 🚀 Features
-
-✅ Interactive Dashboard
-
-✅ Team Performance Analysis
-
-✅ Most Successful Teams
-
-✅ Matches Won by Venue
-
-✅ Toss Impact Analysis
-
-✅ Season-wise Trends
-
-✅ Player Performance Insights
-
-✅ Dynamic Filters & Slicers
-
-✅ Pivot Tables and Pivot Charts
+The project explores team performance, player achievements, venue statistics, toss decisions, and season-wise trends to uncover key patterns and insights from eleven IPL seasons.
 
 ---
 
-## 📊 Dashboard Insights
+## 🚀 Dashboards Created
+
+### 📊 Excel Dashboard
+
+* Interactive Dashboard using Pivot Tables and Pivot Charts
+* Team Performance Analysis
+* Toss Decision Analysis
+* Venue Analysis
+* Season-wise Winner Analysis
+* Dynamic Slicers and Filters
+
+### 📈 Power BI Dashboard
+
+* KPI Cards
+* Team-wise Match Wins
+* Top 10 Player of Match Winners
+* Toss Decision Distribution
+* Top IPL Venues
+* Season Winners Summary
+* Interactive Filtering and Data Exploration
+
+---
+
+## 📊 Key Insights
 
 ### Team Analysis
-- Total Matches Played
-- Total Wins by Team
-- Win Percentage
-- Most Successful IPL Team
 
-### Match Analysis
-- Matches Played Per Season
-- Venue-wise Match Distribution
-- Toss Winner vs Match Winner Analysis
+* Total Matches Played
+* Team-wise Match Wins
+* Most Successful IPL Teams
+* Winning Trends Across Seasons
 
-### Performance Analysis
-- Top Performing Teams
-- Season-wise Performance Trends
-- Winning Patterns
+### Player Analysis
+
+* Top 10 Player of the Match Award Winners
+* Consistent Performers Across Seasons
+
+### Venue Analysis
+
+* Most Frequently Used IPL Venues
+* Match Distribution Across Stadiums
+
+### Toss Analysis
+
+* Bat First vs Field First Decisions
+* Impact of Toss Decisions on Match Outcomes
+
+### Season Analysis
+
+* IPL Winners (2008–2018)
+* Runner-Up Teams
+* Player of the Series by Season
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tools & Technologies
 
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Conditional Formatting
-- Data Cleaning Techniques
-- Dashboard Design
+### Excel
+
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Conditional Formatting
+* Dashboard Design
+
+### Power BI
+
+* Data Modeling
+* Interactive Visualizations
+* KPI Cards
+* Slicers & Filters
+* Dashboard Development
 
 ---
 
 ## 📂 Dataset Information
 
-The dataset contains:
+The dataset contains IPL match information from **2008 to 2018**, including:
 
-- Match ID
-- Season
-- Date
-- Team 1
-- Team 2
-- Toss Winner
-- Toss Decision
-- Match Winner
-- Venue
-- Player of Match
+* Match ID
+* Date
+* City
+* Venue
+* Team 1
+* Team 2
+* Toss Winner
+* Toss Decision
+* Match Winner
+* Player of the Match
+* Win by Runs
+* Win by Wickets
+
+Additionally, season-level information includes:
+
+* IPL Winner
+* Runner-Up
+* Player of the Series
 
 ---
 
 ## 📸 Dashboard Preview
 
-### Main Dashboard
+### Excel Dashboard
 
-![Dashboard Screenshot](images/dashboard.png)
+![Excel Dashboard](images/excel_dashboard.png)
 
-> Add your dashboard screenshot inside the `images` folder and update the file name if needed.
+### Power BI Dashboard
+
+![Power BI Dashboard](images/powerbi_dashboard.png)
 
 ---
 
 ## 📈 Key Findings
 
-- Mumbai Indians and Chennai Super Kings are among the most successful IPL teams.
-- Winning the toss does not always guarantee winning the match.
-- Certain venues have historically favored specific teams.
-- Team performance varies significantly across seasons.
+* Mumbai Indians emerged as the most successful franchise during the analyzed period.
+* Chennai Super Kings consistently performed as one of the strongest teams.
+* Winning the toss does not guarantee winning the match.
+* Wankhede Stadium and Eden Gardens hosted the highest number of matches.
+* Several players consistently dominated the Player of the Match awards across multiple seasons.
 
 ---
 
 ## 📁 Project Structure
 
-```
-IPL-Data-Analysis/
+```text
+IPL-2008-2018-Analysis/
 │
 ├── Dataset/
-│   └── IPL_Data.xlsx
+│   └── IPL_Dataset.xlsx
 │
-├── Dashboard/
-│   └── IPL_Dashboard.xlsx
+├── Excel Dashboard/
+│   └── IPL_Excel_Dashboard.xlsx
+│
+├── Power BI Dashboard/
+│   └── IPL_PowerBI_Dashboard.pbix
 │
 ├── Images/
-│   └── dashboard.png
+│   ├── excel_dashboard.png
+│   └── powerbi_dashboard.png
 │
 └── README.md
 ```
 
 ---
 
-## 🎯 Learning Outcomes
+## 🎯 Skills Demonstrated
 
-Through this project, I learned:
-
-- Data Cleaning in Excel
-- Pivot Table Analysis
-- Interactive Dashboard Creation
-- Data Visualization Best Practices
-- Business Insight Generation
-- Excel Reporting Techniques
+* Data Cleaning
+* Data Analysis
+* Dashboard Design
+* Data Visualization
+* Business Insights Generation
+* Excel Reporting
+* Power BI Development
+* Analytical Thinking
 
 ---
 
@@ -134,13 +170,13 @@ Through this project, I learned:
 
 **Rishabh Singh**
 
-Aspiring Data Analyst | Excel | SQL | Python | Power BI
+Aspiring Data Analyst | Excel | SQL | Python | Power BI | Machine Learning
 
-### Connect with Me
+### Connect With Me
 
-- LinkedIn: Add Your LinkedIn Profile Link
-- GitHub: Add Your GitHub Profile Link
+* LinkedIn:www.linkedin.com/in/rishabh-singh-809485346
+* Gmail: rishbahsingh00250@gmail.com
 
 ---
 
-⭐ If you found this project useful, don't forget to star the repository.
+⭐ If you found this project useful, consider giving it a star!
