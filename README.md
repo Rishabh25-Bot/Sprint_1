@@ -169,8 +169,7 @@ IPL-2008-2018-Analysis/
 ## 👨‍💻 Author
 
 **Rishabh Singh**
-
-Aspiring Data Analyst | Excel | SQL | Python | Power BI | Machine Learning
+Data Analyst | Excel | SQL | Python | Power BI | Machine Learning
 
 ### Connect With Me
 
